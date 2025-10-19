@@ -14,9 +14,19 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 ## 🧱 Objectives  
 - Strengthen product security and testing coverage.  
 - Reduce post-release defects through peer reviews and CI/CD automation.  
-- Standardize documentation for traceability and compliance.  
+- Standardize traceability and compliance documentation.  
 - Create feedback loops to continuously improve quality and user satisfaction.
+
+- 
+## 🧰 Tools & Technologies  
+- **Languages:** Python, JavaScript  
+- **Testing Frameworks:** PyTest, Selenium, Postman  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Documentation:** Confluence, Markdown, Jira Integration  
+- **Version Control:** Git  
+- **Metrics Tracking:** Allure Reports, TestRail
 ---
+
 ## 🧩 Key Achievements  
 | Metric | Improvement | Description |
 |--------|--------------|-------------|
@@ -26,26 +36,55 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 | 🚀 **Deployment Reliability** | ↑ 25% | Improved through automated build verification tests. |
 
 ---
+## 💡 Impact & Applications  
 
-## 🧪 Process Overview  
-
-![Process Overview](docs/process_overview_boxes.png)  
-
-**Figure 1: Quality Assurance Workflow**  
-This diagram outlines the QA improvement pipeline — from secure code reviews to automated testing, documentation, deployment, and customer feedback integration.
-c
----
-
-## 🧰 Tools & Technologies  
-- **Languages:** Python, JavaScript  
-- **Testing Frameworks:** PyTest, Selenium, Postman  
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Documentation:** Confluence, Markdown, Jira Integration  
-- **Version Control:** Git  
-- **Metrics Tracking:** Allure Reports, TestRail  
+- **Operational Reliability** → Reduced critical defects and improved deployment confidence.  
+- **Security Assurance** → Detected vulnerabilities earlier through systematic reviews.  
+- **Documentation Culture** → Ensured reproducibility and accountability across QA cycles.  
+- **Customer Trust** → Improved satisfaction through faster fixes and transparent reporting.  
 
 ---
+
+## 🏢 Industry Relevance  
+This project demonstrates how **quality assurance and process automation** can directly improve product security, regulatory compliance, and customer trust in enterprise SaaS environments—core to modern FinTech and e-commerce systems.
+
+---
+
+## 🙌 Acknowledgements  
+- **Nu Skin Cosmetics Engineering Team** – for collaboration and process access.  
+- **Open-source testing tools** – PyTest, Selenium, Postman, Allure, Jenkins.  
+- **Mentors and peers** – for supporting process improvement initiatives.  
+
+---
+
+## 🪪 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## 🧮 Project Artifacts  
 
-### 📂 Folder Structure  
+## 📂 Project Structure
+
+```text
+nu-skin-security-enhancement/
+│
+├── docs/
+│   └── Exhibit3.10_NuSkin_Project_Results.pdf
+│
+├── notebooks/
+│   └── defect_trend_analysis.ipynb
+│
+├── tests/
+│   ├── ui_tests/
+│   ├── api_tests/
+│   └── regression_suite/
+│
+├── results/
+│   └── defect_summary.csv
+│
+├── src/
+│   ├── pipeline_config.yml
+│   └── test_automation.py
+│
+├── README.md
+└── LICENSE
+
