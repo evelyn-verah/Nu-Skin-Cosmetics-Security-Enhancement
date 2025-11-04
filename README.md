@@ -1,4 +1,4 @@
-# 🔒 Nu Skin Cosmetics Security Enhancement
+# Nu Skin Cosmetics Security Enhancement
 
 This project enhanced the**system reliability**, **code quality**, and **customer trust** through structured QA automation of the Nu Skin Cosmetics software ecosystem.  
 
@@ -11,14 +11,14 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 <img width="1800" height="3000" alt="process_overview_boxes" src="https://github.com/user-attachments/assets/cca1328b-cb73-467f-84ca-c1901948bfd2" />
 
 ---
-## 🧱 Objectives  
+## Objectives  
 - Strengthen product security and testing coverage.  
 - Reduce post-release defects through peer reviews and CI/CD automation.  
 - Standardize traceability and compliance documentation.  
 - Create feedback loops to continuously improve quality and user satisfaction.
 
 - 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 - **Languages:** Python, JavaScript  
 - **Testing Frameworks:** PyTest, Selenium, Postman  
 - **CI/CD:** Jenkins, GitHub Actions  
@@ -27,16 +27,16 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 - **Metrics Tracking:** Allure Reports, TestRail
 ---
 
-## 🧩 Key Achievements  
+## Key Achievements  
 | Metric | Improvement | Description |
 |--------|--------------|-------------|
-| 🐞 **Production Bugs** | ↓ 40% | Achieved through code review checklists and automated test suites. |
-| 📑 **Documentation Gaps** | ↓ 30% | Introduced QA templates and traceability matrices. |
-| 🔄 **Customer Complaints** | ↓ 20% | Reduced through faster defect triage and root-cause tracking. |
-| 🚀 **Deployment Reliability** | ↑ 25% | Improved through automated build verification tests. |
+|  **Production Bugs** | ↓ 40% | Achieved through code review checklists and automated test suites. |
+|  **Documentation Gaps** | ↓ 30% | Introduced QA templates and traceability matrices. |
+|  **Customer Complaints** | ↓ 20% | Reduced through faster defect triage and root-cause tracking. |
+|  **Deployment Reliability** | ↑ 25% | Improved through automated build verification tests. |
 
 ---
-## 💡 Impact & Applications  
+##  Impact & Applications  
 
 - **Operational Reliability** → Reduced critical defects and improved deployment confidence.  
 - **Security Assurance** → Detected vulnerabilities earlier through systematic reviews.  
@@ -45,24 +45,24 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 
 ---
 
-## 🏢 Industry Relevance  
+##  Industry Relevance  
 This project demonstrates how **quality assurance and process automation** can directly improve product security, regulatory compliance, and customer trust in enterprise SaaS environments—core to modern FinTech and e-commerce systems.
 
 ---
 
-## 🙌 Acknowledgements  
+##  Acknowledgements  
 - **Nu Skin Cosmetics Engineering Team** – for collaboration and process access.  
 - **Open-source testing tools** – PyTest, Selenium, Postman, Allure, Jenkins.  
 - **Mentors and peers** – for supporting process improvement initiatives.  
 
 ---
 
-## 🪪 License  
+## License  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-## 🧮 Project Artifacts  
+##  Project Artifacts  
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 nu-skin-security-enhancement/
