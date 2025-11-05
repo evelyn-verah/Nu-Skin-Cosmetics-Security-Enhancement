@@ -1,9 +1,7 @@
 # Nu Skin Cosmetics Security Enhancement
 
-This project enhanced the**system reliability**, **code quality**, and **customer trust** through structured QA automation of the Nu Skin Cosmetics software ecosystem.  
+As a **Software Quality Analyst**, I led initiatives that reduced **production bugs by 40%** and customer complaints by **20%**, while improving deployment stability through structured QA automation of the Nu Skin Cosmetics software ecosystem.
 
-As a **Software Quality Analyst**, I led initiatives that reduced **production bugs by 40%** and customer complaints by **20%**, while improving deployment stability through automation and documentation.
----
 ## Project Overview 
 **Figure 1: Quality Assurance Workflow**  
 This diagram outlines the QA improvement pipeline — from secure code reviews to automated testing, documentation, deployment, and customer feedback integration.
@@ -30,10 +28,10 @@ This diagram outlines the QA improvement pipeline — from secure code reviews t
 ## Key Achievements  
 | Metric | Improvement | Description |
 |--------|--------------|-------------|
-|  **Production Bugs** | ↓ 40% | Achieved through code review checklists and automated test suites. |
-|  **Documentation Gaps** | ↓ 30% | Introduced QA templates and traceability matrices. |
-|  **Customer Complaints** | ↓ 20% | Reduced through faster defect triage and root-cause tracking. |
-|  **Deployment Reliability** | ↑ 25% | Improved through automated build verification tests. |
+|  **Production Bugs** | 40% | Achieved through code review checklists and automated test suites. |
+|  **Documentation Gaps** | 30% | Introduced QA templates and traceability matrices. |
+|  **Customer Complaints** | 20% | Reduced through faster defect triage and root-cause tracking. |
+|  **Deployment Reliability** | 25% | Improved through automated build verification tests. |
 
 ---
 ##  Impact & Applications  
@@ -53,7 +51,7 @@ This project demonstrates how **quality assurance and process automation** can d
 ##  Acknowledgements  
 - **Nu Skin Cosmetics Engineering Team** – for collaboration and process access.  
 - **Open-source testing tools** – PyTest, Selenium, Postman, Allure, Jenkins.  
-- **Mentors and peers** – for supporting process improvement initiatives.  
+- **Cardinal Peak LLC** – for supporting process improvement initiatives.  
 
 ---
 
@@ -61,6 +59,7 @@ This project demonstrates how **quality assurance and process automation** can d
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ##  Project Artifacts  
+
 
 ##  Project Structure
 
