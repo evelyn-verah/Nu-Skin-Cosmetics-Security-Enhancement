@@ -60,6 +60,16 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ##  Project Artifacts  
 
+**Figure 1: Production Bugs Trend**  
+This visualization shows the steady decline in monthly production bugs following the implementation of automated testing and code reviews.
+
+<img width="900" alt="production_bugs_trend" src="production_bugs_trend.png" />
+
+**Figure 2: Customer Complaints Trend**  
+This chart demonstrates the reduction in customer complaints — a direct result of improved deployment reliability and clearer documentation.
+
+<img width="900" alt="customer_complaints_trend" src="customer_complaints_trend.png" />
+
 
 ##  Project Structure
 
